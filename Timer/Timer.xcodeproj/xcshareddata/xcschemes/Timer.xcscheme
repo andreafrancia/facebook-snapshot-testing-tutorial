@@ -34,6 +34,20 @@
                ReferencedContainer = "container:Timer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "653321B91A1B666100472BBA"
+               BuildableName = "Timer Snapshot Tests.xctest"
+               BlueprintName = "Timer Snapshot Tests"
+               ReferencedContainer = "container:Timer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -49,6 +63,16 @@
                BlueprintIdentifier = "653321A51A1B65D200472BBA"
                BuildableName = "TimerTests.xctest"
                BlueprintName = "TimerTests"
+               ReferencedContainer = "container:Timer.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "653321B91A1B666100472BBA"
+               BuildableName = "Timer Snapshot Tests.xctest"
+               BlueprintName = "Timer Snapshot Tests"
                ReferencedContainer = "container:Timer.xcodeproj">
             </BuildableReference>
          </TestableReference>
